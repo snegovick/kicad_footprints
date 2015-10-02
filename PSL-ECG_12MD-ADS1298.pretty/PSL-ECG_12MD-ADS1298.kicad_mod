@@ -1,4 +1,4 @@
-(module Pin_Headers:Pin_Header_Straight_1x10 (layer F.Cu) (tedit 560CF922)
+(module PSL-ECG_12MD-ADS1298 (layer F.Cu) (tedit 560CF922)
   (descr PSL-ECG_12MD-ADS1298)
   (tags "pin header")
   (fp_text reference REF** (at 13.5 26) (layer F.SilkS)
